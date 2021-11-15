@@ -10,4 +10,12 @@ git remote -v
 git remote add [name] [link]
 ## git fetch trae todas las ramas
 ## git pull traer los cambios
+## AGREGUE COSAS AL PROYECTO ORIGINAL
+hola mundo
  
+
+ ### comandos
+ - git clone repo
+ - git branch -v
+ - git log
+ - git remote remove [repo]
