@@ -13,3 +13,9 @@ git remote add [name] [link]
 ## AGREGUE COSAS AL PROYECTO ORIGINAL
 hola mundo
  
+
+ ### comandos
+ - git clone repo
+ - git branch -v
+ - git log
+ - git remote remove [repo]
