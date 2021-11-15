@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # colaborares dos
 * Marlon Alvarez 
 
@@ -7,3 +8,7 @@ reporte de contenedores
 voy hacer solo el commit y luego realizar el upstream para ver si no peurdo cambio
 
 
+=======
+# colaborares de algo
+* Marlon Alvarez 
+>>>>>>> 8a2ead36bbb5e37c54153521c8e613b08b1c789c
